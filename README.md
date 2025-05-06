@@ -18,17 +18,3 @@ BookVerse is an e-commerce platform for selling books, where authors can track t
 - **Authentication**: JWT (JSON Web Tokens)
 
 ## Getting Started
-
-### Prerequisites
-
-- Install **Node.js** and **npm** to manage dependencies for both frontend and backend.
-- Set up **MongoDB** (locally or use a cloud service like MongoDB Atlas).
-
-### Setup Instructions
-
-#### Frontend
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Tanya2802/BookVerse.git
-   cd BookVerse/frontend
